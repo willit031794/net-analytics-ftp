@@ -130,4 +130,4 @@ dmypy.json
 
 # large datasets
 datasets/cleaned_data/match.csv
-datasets/raw-data/database.sqlite
+datasets/raw_data/database.sqlite

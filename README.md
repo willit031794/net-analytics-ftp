@@ -36,6 +36,8 @@ Data on European football clubs' player transfers, through 1992/93 to 2020/21 se
 ```
         net-analytics-ftp
         ├── README.md
+        ├── companion_document.docx
+        ├── presentation_deck.pptx
         ├── .gitignore
         ├── requirements.txt
         ├── datasets
@@ -80,6 +82,8 @@ Data on European football clubs' player transfers, through 1992/93 to 2020/21 se
 
 ## File Description
 -   `requirements.txt` -> Python packages requirements
+-   `companion_document.docx` -> companion document explains the background for the analyses
+-   `presentation_deck.pptx` -> slideshow illustrate the managerial implications of the work
 
 ### datasets
 #### raw_data
